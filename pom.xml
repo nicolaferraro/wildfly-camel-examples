@@ -46,7 +46,7 @@
     <properties>
 
         <!-- WildFly-Camel versions -->
-        <version.wildfly.camel>7.0.0</version.wildfly.camel>
+        <version.wildfly.camel>7.1.0-SNAPSHOT</version.wildfly.camel>
         <version.wildfly>13.0.0.Final</version.wildfly>
         <version.wildfly.jpa21.api>1.0.2.Final</version.wildfly.jpa21.api>
 
